@@ -1,4 +1,4 @@
-//Assignment operators
+//Assignment operators Example
 class Assignment
 {
 	public static void main(String args[])

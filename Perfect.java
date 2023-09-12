@@ -2,8 +2,8 @@ class perfect
 {
 	public static void main(String args[])
 	{
-		int x=12;
-		double y=Math.sqrt(x);
+		int x=11;
+		double y=(int)Math.sqrt(x);
 		y=y*y;
 		System.out.println(y);
 		if(y==x)
@@ -12,7 +12,7 @@ class perfect
 		}
 		else
 		{
-			System.out.println(x+"is not a perfect number");
+			System.out.println(x+" is not a perfect number");
 		}
 	}
 }
